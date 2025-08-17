@@ -1,0 +1,3 @@
+[submodule ".config/mango"]
+	path = .config/mango
+	url = https://github.com/kozoy/mango-config
