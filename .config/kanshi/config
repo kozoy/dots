@@ -1,0 +1,8 @@
+profile external-main {
+  output eDP-1 mode 1920x1080@60 scale 1.5 position 0,0
+  output HDMI-A-1 mode 3840x2160@60 scale 1.5 position 1280,0
+}
+
+profile laptop-only {
+  output eDP-1 mode 1920x1080@60 scale 1.5 position 0,0
+}
